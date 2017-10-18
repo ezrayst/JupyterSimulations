@@ -1,0 +1,1 @@
+Compile `g++ -g -Wall -I /usr/include/ main.cc -o main`
