@@ -1,0 +1,12 @@
+! elementShape hexahedron
+! elementNumPoints 8
+8	1
+0              0              0              
+0.1            0              0              
+0              0.1            0              
+0.1            0.1            0              
+0              0              0.1            
+0.1            0              0.1            
+0              0.1            0.1            
+0.1            0.1            0.1            
+0         1         5         4         2         3         7         6         
