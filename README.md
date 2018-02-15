@@ -1,4 +1,4 @@
-Jupyter Notebook for Checking Mohr Coulomb Material Model
+Jupyter Notebook for Simulations Performed
 ======================
 
 Use mpm-3d 
