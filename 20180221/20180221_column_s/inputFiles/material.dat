@@ -1,0 +1,10 @@
+MohrCoulomb {
+       youngModulus 1e+06
+       poissonRatio 0.2
+       phi 28
+       psi 0
+       cohesion 0
+       sigt 0
+       porosity 0.3
+       density 2038.74
+}
