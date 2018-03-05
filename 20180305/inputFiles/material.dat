@@ -1,0 +1,7 @@
+IsotropicLinearElastic {
+       youngModulus 1000000
+       poissonRatio 0.2
+       phi 30
+       porosity 0
+       density 1000
+}
