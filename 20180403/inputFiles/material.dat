@@ -1,0 +1,7 @@
+1
+ILE     5
+          density                 1800.0
+          porosity                0.3
+          permeability            0.001
+          youngsModulus           1.0E+7        
+          poissonRatio            0.0
